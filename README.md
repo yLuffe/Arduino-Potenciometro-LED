@@ -6,7 +6,7 @@ Este repositório contém um projeto simples de Arduino que controla LEDs com ba
 
 ![Circuito](Circuito.png)
 
-Você pode visualizar e interagir com o circuito no [TinkerCad]([TinkerCad-Link.txt](https://www.tinkercad.com/things/aXCZFENZDZM?sharecode=2EBHhBtYNrDYITc1TD-NRcB87ERGkiT0SmhI6R1jUXU)).
+Você pode visualizar e interagir com o circuito no [![TinkerCad](https://www.tinkercad.com/assets/tryitnow/img/tryitnow-badge__default.png)](https://www.tinkercad.com/things/aXCZFENZDZM?sharecode=2EBHhBtYNrDYITc1TD-NRcB87ERGkiT0SmhI6R1jUXU)
 
 ## Instalação :gear:
 
